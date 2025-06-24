@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Phan1": {
+      "commandName": "Project",
+      "commandLineArgs": "A1 \r\nA2\r\nA3"
+    }
+  }
+}
