@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92764A-F466-47E6-B729-C983C0742D9E}|..\\BT_Phan5\\BT_Phan5.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\bt_phan5\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92764A-F466-47E6-B729-C983C0742D9E}|..\\BT_Phan5\\BT_Phan5.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\bt_phan5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7A2B99-5460-4C97-92B6-DB7045714572}|Phan5.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D7A2B99-5460-4C97-92B6-DB7045714572}|Phan5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D7A2B99-5460-4C97-92B6-DB7045714572}|Phan5.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan5\\phan5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D7A2B99-5460-4C97-92B6-DB7045714572}|Phan5.csproj|solutionrelative:phan5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\BT_Phan5\\Bai1.cs",
+              "RelativeDocumentMoniker": "..\\BT_Phan5\\Bai1.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\BT_Phan5\\Bai1.cs",
+              "RelativeToolTip": "..\\BT_Phan5\\Bai1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:44:16.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\BT_Phan5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BT_Phan5\\Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\BT_Phan5\\Program.cs",
+              "RelativeToolTip": "..\\BT_Phan5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:41:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Phan5",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan5\\Phan5.csproj",
+              "RelativeDocumentMoniker": "Phan5.csproj",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan5\\Phan5.csproj",
+              "RelativeToolTip": "Phan5.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T10:38:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:27:53.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Phan9_Lambda/1.0.0": {
+        "runtime": {
+          "Phan9_Lambda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phan9_Lambda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

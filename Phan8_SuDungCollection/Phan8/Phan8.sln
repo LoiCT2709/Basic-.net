@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phan8", "Phan8.csproj", "{57B41A5A-5B97-4A3C-9103-91D7F425164D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57B41A5A-5B97-4A3C-9103-91D7F425164D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B41A5A-5B97-4A3C-9103-91D7F425164D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B41A5A-5B97-4A3C-9103-91D7F425164D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B41A5A-5B97-4A3C-9103-91D7F425164D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5747DE5F-157B-424A-B2D7-7CC9BBEE7988}
+	EndGlobalSection
+EndGlobal
