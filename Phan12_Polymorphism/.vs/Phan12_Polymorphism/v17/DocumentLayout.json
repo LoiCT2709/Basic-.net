@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan12_polymorphism\\pitbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|solutionrelative:pitbull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan12_polymorphism\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan12_polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan12_polymorphism\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|c:\\users\\lpn31\\computer\\backend .net\\.net co ban\\phan12_polymorphism\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE7CC515-9AF5-4A49-AA63-B19F3FB154A8}|Phan12_Polymorphism.csproj|solutionrelative:bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pitbull.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Pitbull.cs",
+              "RelativeDocumentMoniker": "Pitbull.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Pitbull.cs",
+              "RelativeToolTip": "Pitbull.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:17:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Bird.cs",
+              "RelativeDocumentMoniker": "Bird.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Bird.cs",
+              "RelativeToolTip": "Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:14:34.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:11:58.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:11:16.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lpn31\\Computer\\Backend .NET\\.NET Co ban\\Phan12_Polymorphism\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:10:11.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

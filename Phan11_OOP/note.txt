@@ -1,0 +1,5 @@
+Các tính chất hướng đối tượng:
+- Encapsulation (Tính đóng gói): Là kỹ thuật gom dữ liệu và các hàm xử lý dữ liệu vào cùng một đơn vị (lớp/đối tượng), đồng thời che giấu chi tiết cài đặt, chỉ cho phép truy cập thông qua giao diện công khai.
+- Inheritance (Kế thừa): Là khả năng tạo ra lớp mới dựa trên lớp có sẵn, thừa hưởng thuộc tính và phương thức, giúp tái sử dụng và mở rộng chức năng mà không cần viết lại từ đầu.
+- Polymorphism (Đa hình): Là khả năng sử dụng cùng một tên hàm hoặc giao diện để thực hiện các hành vi khác nhau tùy vào đối tượng hoặc ngữ cảnh.
+- Apstraction (Trừu tượng): Là kỹ thuật ẩn đi chi tiết phức tạp và chỉ hiển thị những thông tin cần thiết, thông qua các lớp trừu tượng hoặc giao diện.
