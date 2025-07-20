@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Phan13_Static/1.0.0": {
+        "runtime": {
+          "Phan13_Static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phan13_Static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
